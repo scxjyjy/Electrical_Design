@@ -1,0 +1,4 @@
+Change Pin Designator/Name:  Old Designator=P2-18 Old Name=18 New Designator =19 New Name=19
+Change Pin Designator/Name:  Old Designator=P2-19 Old Name=19 New Designator =18 New Name=18
+Change Pin Designator/Name:  Old Designator=U1-18 Old Name=XTAL2 New Designator =XTAL1 New Name=19
+Change Pin Designator/Name:  Old Designator=U1-19 Old Name=XTAL1 New Designator =XTAL2 New Name=18
